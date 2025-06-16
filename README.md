@@ -1,1 +1,1 @@
-# Car-Price-Detection
+This project uses a simple Linear Regression model to predict car prices based on numerical features. Built using Python and scikit-learn, the model is trained on a dataset after performing basic preprocessing.
